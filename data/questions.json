@@ -839,6 +839,366 @@
       ],
       "correct": 0,
       "explanation": "implement 意为“实施/执行”。"
+    },
+    {
+      "id": 71,
+      "question": "The department was asked to (  ) additional funds for the marketing campaign.",
+      "options": [
+        "A. allocate",
+        "B. allow",
+        "C. allege",
+        "D. ally"
+      ],
+      "correct": 0,
+      "explanation": "allocate 意为“分配/拨给（资金、资源等）”。"
+    },
+    {
+      "id": 72,
+      "question": "We need to (  ) with other departments to complete this project.",
+      "options": [
+        "A. collaborate",
+        "B. collection",
+        "C. collision",
+        "D. collation"
+      ],
+      "correct": 0,
+      "explanation": "collaborate 意为“合作/协作”。"
+    },
+    {
+      "id": 73,
+      "question": "The company must ensure (  ) with local labor laws.",
+      "options": [
+        "A. compliance",
+        "B. complaint",
+        "C. completion",
+        "D. complication"
+      ],
+      "correct": 0,
+      "explanation": "compliance 意为“遵守/符合”。"
+    },
+    {
+      "id": 74,
+      "question": "All (  ) documents should be stored in the locked cabinet.",
+      "options": [
+        "A. confidential",
+        "B. confident",
+        "C. confidence",
+        "D. confidently"
+      ],
+      "correct": 0,
+      "explanation": "confidential 意为“机密的”。"
+    },
+    {
+      "id": 75,
+      "question": "Please handle all (  ) regarding the contract through official channels.",
+      "options": [
+        "A. correspondence",
+        "B. core",
+        "C. corner",
+        "D. correct"
+      ],
+      "correct": 0,
+      "explanation": "correspondence 意为“通信/信件”。"
+    },
+    {
+      "id": 76,
+      "question": "The (  ) for completing the report is Friday afternoon.",
+      "options": [
+        "A. deadline",
+        "B. deadbolt",
+        "C. deadlock",
+        "D. deadly"
+      ],
+      "correct": 0,
+      "explanation": "deadline 意为“截止日期”。"
+    },
+    {
+      "id": 77,
+      "question": "The manager decided to (  ) some tasks to her assistant.",
+      "options": [
+        "A. delegate",
+        "B. delicate",
+        "C. deletion",
+        "D. deliberate"
+      ],
+      "correct": 0,
+      "explanation": "delegate 意为“委派/授权”。"
+    },
+    {
+      "id": 78,
+      "question": "We found a minor (  ) between the two sets of figures.",
+      "options": [
+        "A. discrepancy",
+        "B. discretion",
+        "C. discovery",
+        "D. discount"
+      ],
+      "correct": 0,
+      "explanation": "discrepancy 意为“差异/不符之处”。"
+    },
+    {
+      "id": 79,
+      "question": "The new software is designed to make the workflow more (  ).",
+      "options": [
+        "A. efficient",
+        "B. effect",
+        "C. effort",
+        "D. efficiency"
+      ],
+      "correct": 0,
+      "explanation": "efficient 意为“高效的”。"
+    },
+    {
+      "id": 80,
+      "question": "The online portal will (  ) communication between team members.",
+      "options": [
+        "A. facilitate",
+        "B. facility",
+        "C. facial",
+        "D. factor"
+      ],
+      "correct": 0,
+      "explanation": "facilitate 意为“促进/使便利”。"
+    },
+    {
+      "id": 81,
+      "question": "The company offers a performance-based (  ) to its sales staff.",
+      "options": [
+        "A. incentive",
+        "B. incident",
+        "C. incline",
+        "D. include"
+      ],
+      "correct": 0,
+      "explanation": "incentive 意为“激励/动力”。"
+    },
+    {
+      "id": 82,
+      "question": "The CEO's speech focused on the importance of (  ) in a competitive market.",
+      "options": [
+        "A. innovation",
+        "B. innocent",
+        "C. inner",
+        "D. initial"
+      ],
+      "correct": 0,
+      "explanation": "innovation 意为“创新”。"
+    },
+    {
+      "id": 83,
+      "question": "She acts as the primary (  ) between the head office and regional branches.",
+      "options": [
+        "A. liaison",
+        "B. library",
+        "C. license",
+        "D. liable"
+      ],
+      "correct": 0,
+      "explanation": "liaison 意为“联络人/联络”。"
+    },
+    {
+      "id": 84,
+      "question": "Attendance at the annual safety seminar is (  ) for all employees.",
+      "options": [
+        "A. mandatory",
+        "B. manifest",
+        "C. manner",
+        "D. mansion"
+      ],
+      "correct": 0,
+      "explanation": "mandatory 意为“强制的/义务的”。"
+    },
+    {
+      "id": 85,
+      "question": "The main (  ) of this meeting is to finalize the budget.",
+      "options": [
+        "A. objective",
+        "B. objection",
+        "C. observer",
+        "D. obvious"
+      ],
+      "correct": 0,
+      "explanation": "objective 意为“目标”。"
+    },
+    {
+      "id": 86,
+      "question": "We are seeking a candidate with a high level of (  ).",
+      "options": [
+        "A. professionalism",
+        "B. profession",
+        "C. professor",
+        "D. profess"
+      ],
+      "correct": 0,
+      "explanation": "professionalism 意为“专业精神/职业水准”。"
+    },
+    {
+      "id": 87,
+      "question": "Employees are expected to be (  ) for early morning meetings.",
+      "options": [
+        "A. punctual",
+        "B. public",
+        "C. publish",
+        "D. purchase"
+      ],
+      "correct": 0,
+      "explanation": "punctual 意为“准时的”。"
+    },
+    {
+      "id": 88,
+      "question": "He submitted his (  ) after ten years of service to the company.",
+      "options": [
+        "A. resignation",
+        "B. result",
+        "C. resident",
+        "D. resource"
+      ],
+      "correct": 0,
+      "explanation": "resignation 意为“辞职”。"
+    },
+    {
+      "id": 89,
+      "question": "Please consult your (  ) before making any major purchases.",
+      "options": [
+        "A. supervisor",
+        "B. superior",
+        "C. support",
+        "D. superstar"
+      ],
+      "correct": 0,
+      "explanation": "supervisor 意为“主管/监督人”。"
+    },
+    {
+      "id": 90,
+      "question": "The contract will (  ) automatically unless renewed in writing.",
+      "options": [
+        "A. terminate",
+        "B. terminal",
+        "C. term",
+        "D. termly"
+      ],
+      "correct": 0,
+      "explanation": "terminate 意为“终止/结束”。"
+    },
+    {
+      "id": 91,
+      "question": "There is currently a (  ) in the human resources department.",
+      "options": [
+        "A. vacancy",
+        "B. vacation",
+        "C. vacant",
+        "D. vacate"
+      ],
+      "correct": 0,
+      "explanation": "vacancy 意为“空缺（职位）”。"
+    },
+    {
+      "id": 92,
+      "question": "The company needs to streamline its (  ) to reduce delays.",
+      "options": [
+        "A. workflow",
+        "B. working",
+        "C. workman",
+        "D. workshop"
+      ],
+      "correct": 0,
+      "explanation": "workflow 意为“工作流”。"
+    },
+    {
+      "id": 93,
+      "question": "Your annual performance (  ) is scheduled for next month.",
+      "options": [
+        "A. appraisal",
+        "B. approach",
+        "C. approve",
+        "D. appreciate"
+      ],
+      "correct": 0,
+      "explanation": "appraisal 意为“评估”。"
+    },
+    {
+      "id": 94,
+      "question": "The board of directors is meeting in the (  ) right now.",
+      "options": [
+        "A. boardroom",
+        "B. broadway",
+        "C. broadcast",
+        "D. broad"
+      ],
+      "correct": 0,
+      "explanation": "boardroom 意为“董事会会议室”。"
+    },
+    {
+      "id": 95,
+      "question": "After much debate, the committee finally reached a (  ).",
+      "options": [
+        "A. consensus",
+        "B. consent",
+        "C. conscious",
+        "D. consist"
+      ],
+      "correct": 0,
+      "explanation": "consensus 意为“共识”。"
+    },
+    {
+      "id": 96,
+      "question": "Which (  ) is responsible for processing payroll?",
+      "options": [
+        "A. department",
+        "B. departure",
+        "C. depend",
+        "D. depth"
+      ],
+      "correct": 0,
+      "explanation": "department 意为“部门”。"
+    },
+    {
+      "id": 97,
+      "question": "The senior (  ) team made the final decision on the merger.",
+      "options": [
+        "A. executive",
+        "B. exercise",
+        "C. exceed",
+        "D. excise"
+      ],
+      "correct": 0,
+      "explanation": "executive 意为“执行官/高管”。"
+    },
+    {
+      "id": 98,
+      "question": "We encourage employees to provide (  ) on the new office layout.",
+      "options": [
+        "A. feedback",
+        "B. feel",
+        "C. feed",
+        "D. feast"
+      ],
+      "correct": 0,
+      "explanation": "feedback 意为“反馈”。"
+    },
+    {
+      "id": 99,
+      "question": "The union helps employees resolve their (  ) with management.",
+      "options": [
+        "A. grievances",
+        "B. greet",
+        "C. green",
+        "D. grief"
+      ],
+      "correct": 0,
+      "explanation": "grievance 意为“申诉/委屈/抱怨”。"
+    },
+    {
+      "id": 100,
+      "question": "The company has a clear (  ) for career advancement.",
+      "options": [
+        "A. hierarchy",
+        "B. history",
+        "C. highly",
+        "D. highness"
+      ],
+      "correct": 0,
+      "explanation": "hierarchy 意为“层级结构/等级制度”。"
     }
   ],
   "finance": [
@@ -1681,6 +2041,366 @@
       ],
       "correct": 0,
       "explanation": "outlook 意为“前景/展望”。"
+    },
+    {
+      "id": 71,
+      "question": "The report uses the (  ) 'ROI' to refer to Return on Investment.",
+      "options": [
+        "A. abbreviation",
+        "B. aberrant",
+        "C. abhorrent",
+        "D. abrasive"
+      ],
+      "correct": 0,
+      "explanation": "abbreviation 意为“缩写”。"
+    },
+    {
+      "id": 72,
+      "question": "Long-term (  ) of wealth requires consistent saving and investing.",
+      "options": [
+        "A. accumulation",
+        "B. accuracy",
+        "C. accuse",
+        "D. accustom"
+      ],
+      "correct": 0,
+      "explanation": "accumulation 意为“积累/累积”。"
+    },
+    {
+      "id": 73,
+      "question": "The (  ) of the smaller firm will expand our market share significantly.",
+      "options": [
+        "A. acquisition",
+        "B. acquaint",
+        "C. acquiesce",
+        "D. acquire"
+      ],
+      "correct": 0,
+      "explanation": "acquisition 意为“收购/获得”。"
+    },
+    {
+      "id": 74,
+      "question": "The bank assesses the borrower's (  ) before approving the mortgage.",
+      "options": [
+        "A. affordability",
+        "B. affection",
+        "C. afford",
+        "D. affinity"
+      ],
+      "correct": 0,
+      "explanation": "affordability 意为“负担能力”。"
+    },
+    {
+      "id": 75,
+      "question": "The loan schedule includes the monthly (  ) of the principal amount.",
+      "options": [
+        "A. amortization",
+        "B. amount",
+        "C. amusing",
+        "D. amplify"
+      ],
+      "correct": 0,
+      "explanation": "amortization 意为“分期偿还/摊销”。"
+    },
+    {
+      "id": 76,
+      "question": "The retired couple receives a fixed (  ) every month from their pension fund.",
+      "options": [
+        "A. annuity",
+        "B. annual",
+        "C. announce",
+        "D. annoy"
+      ],
+      "correct": 0,
+      "explanation": "annuity 意为“年金”。"
+    },
+    {
+      "id": 77,
+      "question": "Real estate in this area has seen rapid (  ) over the last decade.",
+      "options": [
+        "A. appreciation",
+        "B. appreciate",
+        "C. apprentice",
+        "D. approach"
+      ],
+      "correct": 0,
+      "explanation": "appreciation 意为“增值”。"
+    },
+    {
+      "id": 78,
+      "question": "Hedge funds often engage in (  ) to exploit price differences in different markets.",
+      "options": [
+        "A. arbitrage",
+        "B. arbitrary",
+        "C. arbor",
+        "D. arcade"
+      ],
+      "correct": 0,
+      "explanation": "arbitrage 意为“套利”。"
+    },
+    {
+      "id": 79,
+      "question": "External (  ) are coming in next week to review the financial statements.",
+      "options": [
+        "A. auditors",
+        "B. audience",
+        "C. audio",
+        "D. audit"
+      ],
+      "correct": 0,
+      "explanation": "auditor 意为“审计员”。"
+    },
+    {
+      "id": 80,
+      "question": "The company was forced to file for (  ) after failing to pay its debts.",
+      "options": [
+        "A. bankruptcy",
+        "B. bank",
+        "C. bankrupt",
+        "D. banning"
+      ],
+      "correct": 0,
+      "explanation": "bankruptcy 意为“破产”。"
+    },
+    {
+      "id": 81,
+      "question": "The S&P 500 index serves as a (  ) for the performance of the stock market.",
+      "options": [
+        "A. benchmark",
+        "B. bench",
+        "C. bending",
+        "D. beneath"
+      ],
+      "correct": 0,
+      "explanation": "benchmark 意为“基准/标准”。"
+    },
+    {
+      "id": 82,
+      "question": "She is the sole (  ) of her late father's life insurance policy.",
+      "options": [
+        "A. beneficiary",
+        "B. benefit",
+        "C. beneficial",
+        "D. beneath"
+      ],
+      "correct": 0,
+      "explanation": "beneficiary 意为“受益人”。"
+    },
+    {
+      "id": 83,
+      "question": "The (  ) fee is 1% of the total transaction value.",
+      "options": [
+        "A. brokerage",
+        "B. broken",
+        "C. broke",
+        "D. broker"
+      ],
+      "correct": 0,
+      "explanation": "brokerage 意为“经纪业务/佣金”。"
+    },
+    {
+      "id": 84,
+      "question": "The startup is seeking venture (  ) to fund its expansion plans.",
+      "options": [
+        "A. capital",
+        "B. capsule",
+        "C. captain",
+        "D. caption"
+      ],
+      "correct": 0,
+      "explanation": "capital 意为“资本/资金”。"
+    },
+    {
+      "id": 85,
+      "question": "He used his home as (  ) for the business loan.",
+      "options": [
+        "A. collateral",
+        "B. collect",
+        "C. collide",
+        "D. collar"
+      ],
+      "correct": 0,
+      "explanation": "collateral 意为“抵押品”。"
+    },
+    {
+      "id": 86,
+      "question": "Global (  ) prices, such as oil and gold, have been volatile recently.",
+      "options": [
+        "A. commodity",
+        "B. common",
+        "C. command",
+        "D. comment"
+      ],
+      "correct": 0,
+      "explanation": "commodity 意为“商品”。"
+    },
+    {
+      "id": 87,
+      "question": "The savings account offers (  ) interest calculated daily.",
+      "options": [
+        "A. compound",
+        "B. component",
+        "C. comply",
+        "D.compose"
+      ],
+      "correct": 0,
+      "explanation": "compound interest 意为“复利”。"
+    },
+    {
+      "id": 88,
+      "question": "The newly merged bank will (  ) its operations to reduce overhead costs.",
+      "options": [
+        "A. consolidate",
+        "B. conscious",
+        "C. consent",
+        "D. conserve"
+      ],
+      "correct": 0,
+      "explanation": "consolidate 意为“合并/巩固”。"
+    },
+    {
+      "id": 89,
+      "question": "Travelers should check the (  ) exchange rates before their trip.",
+      "options": [
+        "A. currency",
+        "B. current",
+        "C. curve",
+        "D. cursor"
+      ],
+      "correct": 0,
+      "explanation": "currency 意为“货币”。"
+    },
+    {
+      "id": 90,
+      "question": "You can claim a tax (  ) for certain charitable contributions.",
+      "options": [
+        "A. deduction",
+        "B. deduce",
+        "C. deduct",
+        "D. dedicated"
+      ],
+      "correct": 0,
+      "explanation": "deduction 意为“扣除额/减税额”。"
+    },
+    {
+      "id": 91,
+      "question": "The country risked a sovereign (  ) on its international debt.",
+      "options": [
+        "A. default",
+        "B. defeat",
+        "C. defect",
+        "D. defend"
+      ],
+      "correct": 0,
+      "explanation": "default 意为“违约”。"
+    },
+    {
+      "id": 92,
+      "question": "Persistent (  ) can lead to a decrease in consumer spending.",
+      "options": [
+        "A. deflation",
+        "B. deflate",
+        "C. definition",
+        "D. definite"
+      ],
+      "correct": 0,
+      "explanation": "deflation 意为“通货紧缩”。"
+    },
+    {
+      "id": 93,
+      "question": "Companies must account for the yearly (  ) of their machinery and equipment.",
+      "options": [
+        "A. depreciation",
+        "B. depress",
+        "C. deprive",
+        "D. depth"
+      ],
+      "correct": 0,
+      "explanation": "depreciation 意为“折旧/贬值”。"
+    },
+    {
+      "id": 94,
+      "question": "A (  ) is a financial contract whose value is based on an underlying asset.",
+      "options": [
+        "A. derivative",
+        "B. derive",
+        "C. derive",
+        "D. derivation"
+      ],
+      "correct": 0,
+      "explanation": "derivative 意为“衍生品”。"
+    },
+    {
+      "id": 95,
+      "question": "Portfolio (  ) help minimize risk by spreading investments across different sectors.",
+      "options": [
+        "A. diversification",
+        "B. diverse",
+        "C. divert",
+        "D. divide"
+      ],
+      "correct": 0,
+      "explanation": "diversification 意为“多样化”。"
+    },
+    {
+      "id": 96,
+      "question": "Homeowners can borrow against the (  ) they have built up in their property.",
+      "options": [
+        "A. equity",
+        "B. equal",
+        "C. equation",
+        "D. equip"
+      ],
+      "correct": 0,
+      "explanation": "equity 意为“资产净值/股权”。"
+    },
+    {
+      "id": 97,
+      "question": "Investment advisors have a (  ) duty to act in the best interests of their clients.",
+      "options": [
+        "A. fiduciary",
+        "B. fiction",
+        "C. fiddle",
+        "D. field"
+      ],
+      "correct": 0,
+      "explanation": "fiduciary 意为“受托的/受信托的”。"
+    },
+    {
+      "id": 98,
+      "question": "The government announced its new (  ) policy to stimulate economic growth.",
+      "options": [
+        "A. fiscal",
+        "B. fishy",
+        "C. fission",
+        "D. fissure"
+      ],
+      "correct": 0,
+      "explanation": "fiscal 意为“财政的”。"
+    },
+    {
+      "id": 99,
+      "question": "Rising fuel costs have contributed to an increase in (  ).",
+      "options": [
+        "A. inflation",
+        "B. inflate",
+        "C. inflexible",
+        "D. influence"
+      ],
+      "correct": 0,
+      "explanation": "inflation 意为“通货膨胀”。"
+    },
+    {
+      "id": 100,
+      "question": "The company's (  ) was caused by a sharp decline in sales and high debt levels.",
+      "options": [
+        "A. insolvency",
+        "B. insomnia",
+        "C. inspect",
+        "D. inspire"
+      ],
+      "correct": 0,
+      "explanation": "insolvency 意为“无力偿还债务/破产”。"
     }
   ],
   "travel": [
@@ -2523,6 +3243,366 @@
       ],
       "correct": 0,
       "explanation": "refrain from 意为“克制/禁止”。"
+    },
+    {
+      "id": 71,
+      "question": "We are seeking (  ) that is close to the city center.",
+      "options": [
+        "A. accommodation",
+        "B. accompany",
+        "C. accomplish",
+        "D. accord"
+      ],
+      "correct": 0,
+      "explanation": "accommodation 意为“住宿/住处”。"
+    },
+    {
+      "id": 72,
+      "question": "Our travel (  ) can help you plan the perfect vacation.",
+      "options": [
+        "A. advisor",
+        "B. advise",
+        "C. advice",
+        "D. adverse"
+      ],
+      "correct": 0,
+      "explanation": "advisor 意为“顾问”。"
+    },
+    {
+      "id": 73,
+      "question": "Please present your (  ) pass to the flight attendant.",
+      "options": [
+        "A. boarding",
+        "B. boast",
+        "C. board",
+        "D. borrow"
+      ],
+      "correct": 0,
+      "explanation": "boarding pass 意为“登机牌”。"
+    },
+    {
+      "id": 74,
+      "question": "The hotel offers a daily breakfast (  ) with a variety of options.",
+      "options": [
+        "A. buffet",
+        "B. buffer",
+        "C. buffet",
+        "D. bugle"
+      ],
+      "correct": 0,
+      "explanation": "buffet 意为“自助餐”。"
+    },
+    {
+      "id": 75,
+      "question": "The flight (  ) was very quiet during the overnight trip.",
+      "options": [
+        "A. cabin",
+        "B. cable",
+        "C. cabinet",
+        "D. cactus"
+      ],
+      "correct": 0,
+      "explanation": "cabin 意为“机舱”。"
+    },
+    {
+      "id": 76,
+      "question": "The hotel provides (  ) bottled water in every room.",
+      "options": [
+        "A. complimentary",
+        "B. complement",
+        "C. comply",
+        "D. complex"
+      ],
+      "correct": 0,
+      "explanation": "complimentary 意为“赠送的/免费的”。"
+    },
+    {
+      "id": 77,
+      "question": "The (  ) can assist you with booking show tickets and dinner reservations.",
+      "options": [
+        "A. concierge",
+        "B. conceal",
+        "C. concede",
+        "D. concept"
+      ],
+      "correct": 0,
+      "explanation": "concierge 意为“礼宾人员/管家”。"
+    },
+    {
+      "id": 78,
+      "question": "I have a (  ) reservation for a double room for three nights.",
+      "options": [
+        "A. confirmed",
+        "B. confirm",
+        "C. confuse",
+        "D. confine"
+      ],
+      "correct": 0,
+      "explanation": "confirmed 意为“确认的”。"
+    },
+    {
+      "id": 79,
+      "question": "We are planning a week-long (  ) around the Caribbean islands.",
+      "options": [
+        "A. cruise",
+        "|B. cruel",
+        "C. crude",
+        "D. crush"
+      ],
+      "correct": 0,
+      "explanation": "cruise 意为“邮轮旅行”。"
+    },
+    {
+      "id": 80,
+      "question": "This tropical island is a popular (  ) for honeymooners.",
+      "options": [
+        "A. destination",
+        "B. destiny",
+        "C. distance",
+        "D. distinct"
+      ],
+      "correct": 0,
+      "explanation": "destination 意为“目的地”。"
+    },
+    {
+      "id": 81,
+      "question": "The resort organizes daily (  ) to nearby historical sites.",
+      "options": [
+        "A. excursions",
+        "B. excuse",
+        "C. exclude",
+        "D. execute"
+      ],
+      "correct": 0,
+      "explanation": "excursion 意为“短途旅行/远足”。"
+    },
+    {
+      "id": 82,
+      "question": "The local people are known for their warm (  ) towards tourists.",
+      "options": [
+        "A. hospitality",
+        "B. hospital",
+        "C. hostile",
+        "D. hostage"
+      ],
+      "correct": 0,
+      "explanation": "hospitality 意为“款待/好客”。"
+    },
+    {
+      "id": 83,
+      "question": "You can view and download your full (  ) from our website.",
+      "options": [
+        "A. itinerary",
+        "B. iterating",
+        "C. item",
+        "D. idiom"
+      ],
+      "correct": 0,
+      "explanation": "itinerary 意为“行程表”。"
+    },
+    {
+      "id": 84,
+      "question": "The Eiffel Tower is the most famous (  ) in Paris.",
+      "options": [
+        "A. landmark",
+        "B. landmine",
+        "C. landing",
+        "D. landlord"
+      ],
+      "correct": 0,
+      "explanation": "landmark 意为“地标”。"
+    },
+    {
+      "id": 85,
+      "question": "Business travelers often have very little (  ) time during their trips.",
+      "options": [
+        "A. leisure",
+        "B. leaf",
+        "C. least",
+        "D. lean"
+      ],
+      "correct": 0,
+      "explanation": "leisure 意为“空闲/休闲”。"
+    },
+    {
+      "id": 86,
+      "question": "Passengers are responsible for their own (  ) during the transfer.",
+      "options": [
+        "A. luggage",
+        "B. luxury",
+        "C. lucky",
+        "D. lunge"
+      ],
+      "correct": 0,
+      "explanation": "luggage 意为“行李”。"
+    },
+    {
+      "id": 87,
+      "question": "The sunset over the Grand Canyon was a truly (  ) experience.",
+      "options": [
+        "A. memorable",
+        "B. memory",
+        "C. memorize",
+        "D. memorial"
+      ],
+      "correct": 0,
+      "explanation": "memorable 意为“难忘的”。"
+    },
+    {
+      "id": 88,
+      "question": "The ship's (  ) system failed, forcing it to return to port.",
+      "options": [
+        "A. navigation",
+        "B. navigate",
+        "C. navy",
+        "D. native"
+      ],
+      "correct": 0,
+      "explanation": "navigation 意为“导航”。"
+    },
+    {
+      "id": 89,
+      "question": "The hotel room offers a (  ) view of the ocean.",
+      "options": [
+        "A. panoramic",
+        "B. panorama",
+        "C. panel",
+        "D. panic"
+      ],
+      "correct": 0,
+      "explanation": "panoramic 意为“全景的”。"
+    },
+    {
+      "id": 90,
+      "question": "All (  ) are required to wear seatbelts during takeoff.",
+      "options": [
+        "A. passengers",
+        "B. passage",
+        "C. passive",
+        "D. passing"
+      ],
+      "correct": 0,
+      "explanation": "passenger 意为“旅客/乘客”。"
+    },
+    {
+      "id": 91,
+      "question": "You will need a valid (  ) to enter the country.",
+      "options": [
+        "A. passport",
+        "B. password",
+        "C. passage",
+        "D. passion"
+      ],
+      "correct": 0,
+      "explanation": "passport 意为“护照”。"
+    },
+    {
+      "id": 92,
+      "question": "The city offers many (  ) facilities, including parks and sports centers.",
+      "options": [
+        "A. recreational",
+        "B. recognize",
+        "C. record",
+        "D. recover"
+      ],
+      "correct": 0,
+      "explanation": "recreational 意为“娱乐的/消遣的”。"
+    },
+    {
+      "id": 93,
+      "question": "I would like to make a (  ) for a table of four at 7 PM.",
+      "options": [
+        "A. reservation",
+        "B. reserve",
+        "C. resolution",
+        "D. respect"
+      ],
+      "correct": 0,
+      "explanation": "reservation 意为“预订”。"
+    },
+    {
+      "id": 94,
+      "question": "The mountain (  ) was breathtaking as we drove through the pass.",
+      "options": [
+        "A. scenery",
+        "B. scene",
+        "C. scent",
+        "D. scheme"
+      ],
+      "correct": 0,
+      "explanation": "scenery 意为“风景/景色”。"
+    },
+    {
+      "id": 95,
+      "question": "I bought some local handicrafts as (  ) for my friends back home.",
+      "options": [
+        "A. souvenirs",
+        "B. south",
+        "C. sound",
+        "D. soup"
+      ],
+      "correct": 0,
+      "explanation": "souvenir 意为“纪念品”。"
+    },
+    {
+      "id": 96,
+      "question": "The flight will depart from (  ) 3 of the international airport.",
+      "options": [
+        "A. terminal",
+        "B. terminate",
+        "C. termite",
+        "D. term"
+      ],
+      "correct": 0,
+      "explanation": "terminal 意为“航站楼/终点站”。"
+    },
+    {
+      "id": 97,
+      "question": "Mass (  ) can sometimes have a negative impact on local ecosystems.",
+      "options": [
+        "A. tourism",
+        "B. tourist",
+        "C. tour",
+        "D. tournament"
+      ],
+      "correct": 0,
+      "explanation": "tourism 意为“旅游业”。"
+    },
+    {
+      "id": 98,
+      "question": "We had a five-hour (  ) in Dubai before our connecting flight.",
+      "options": [
+        "A. transit",
+        "B. translate",
+        "C. transfer",
+        "D. transmit"
+      ],
+      "correct": 0,
+      "explanation": "transit 意为“过境/中转”。"
+    },
+    {
+      "id": 99,
+      "question": "Due to the conference, there is no (  ) at any of the hotels in the city.",
+      "options": [
+        "A. vacancy",
+        "B. vacation",
+        "C. vacant",
+        "D. vacate"
+      ],
+      "correct": 0,
+      "explanation": "vacancy 意为“空房/空缺”。"
+    },
+    {
+      "id": 100,
+      "question": "You can redeem your travel (  ) for a discount on your next booking.",
+      "options": [
+        "A. vouchers",
+        "B. vouch",
+        "C. volume",
+        "D. voice"
+      ],
+      "correct": 0,
+      "explanation": "voucher 意为“代金券/凭证”。"
     }
   ],
   "tech": [
@@ -3605,6 +4685,126 @@
       ],
       "correct": 0,
       "explanation": "administrator 意为“管理员”。"
+    },
+    {
+      "id": 91,
+      "question": "The software uses a complex (  ) to encrypt user data.",
+      "options": [
+        "A. algorithm",
+        "B. algebraic",
+        "C. alien",
+        "D. align"
+      ],
+      "correct": 0,
+      "explanation": "algorithm 意为“算法”。"
+    },
+    {
+      "id": 92,
+      "question": "Two-factor (  ) adds an extra layer of security to your account.",
+      "options": [
+        "A. authentication",
+        "B. authentic",
+        "C. author",
+        "D. authority"
+      ],
+      "correct": 0,
+      "explanation": "authentication 意为“身份验证”。"
+    },
+    {
+      "id": 93,
+      "question": "Streaming high-definition video requires significant network (  ).",
+      "options": [
+        "A. bandwidth",
+        "B. bandage",
+        "C. bandit",
+        "D. banner"
+      ],
+      "correct": 0,
+      "explanation": "bandwidth 意为“带宽”。"
+    },
+    {
+      "id": 94,
+      "question": "Laws are being updated to protect privacy in (  ).",
+      "options": [
+        "A. cyberspace",
+        "B. cycle",
+        "C. cylinder",
+        "D. cynical"
+      ],
+      "correct": 0,
+      "explanation": "cyberspace 意为“网络空间”。"
+    },
+    {
+      "id": 95,
+      "question": "Without the correct key, (  ) of the files is impossible.",
+      "options": [
+        "A. decryption",
+        "B. decrypt",
+        "C. decrease",
+        "D. decree"
+      ],
+      "correct": 0,
+      "explanation": "decryption 意为“解密”。"
+    },
+    {
+      "id": 96,
+      "question": "Strong (  ) is essential for protecting sensitive information online.",
+      "options": [
+        "A. encryption",
+        "B. encrypt",
+        "C. enclose",
+        "D. encore"
+      ],
+      "correct": 0,
+      "explanation": "encryption 意为“加密”。"
+    },
+    {
+      "id": 97,
+      "question": "Make sure your (  ) is turned on to block unauthorized access.",
+      "options": [
+        "A. firewall",
+        "B. firework",
+        "C. fireplace",
+        "D. firefly"
+      ],
+      "correct": 0,
+      "explanation": "firewall 意为“防火墙”。"
+    },
+    {
+      "id": 98,
+      "question": "The new video card much-improved 3D (  ) performance.",
+      "options": [
+        "A. graphics",
+        "B. grammar",
+        "C. graduate",
+        "D. graft"
+      ],
+      "correct": 0,
+      "explanation": "graphics 意为“图形/制图”。"
+    },
+    {
+      "id": 99,
+      "question": "Click on the (  ) to visit our partner's website.",
+      "options": [
+        "A. hyperlink",
+        "B. hyper",
+        "C. hyphen",
+        "D. hypnosis"
+      ],
+      "correct": 0,
+      "explanation": "hyperlink 意为“超链接”。"
+    },
+    {
+      "id": 100,
+      "question": "Updating the country's digital (  ) is a major government priority.",
+      "options": [
+        "A. infrastructure",
+        "B. infrared",
+        "C. infringe",
+        "D. infuriate"
+      ],
+      "correct": 0,
+      "explanation": "infrastructure 意为“基础设施/基础架构”。"
     }
   ]
 }
