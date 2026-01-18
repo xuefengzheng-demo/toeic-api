@@ -719,6 +719,126 @@
       ],
       "correct": 0,
       "explanation": "stellar reputation 意为“卓越的声誉”。"
+    },
+    {
+      "id": 61,
+      "question": "The company decided to (  ) the production process to save costs.",
+      "options": [
+        "A. automate",
+        "B. authority",
+        "C. audience",
+        "D. audit"
+      ],
+      "correct": 0,
+      "explanation": "automate 意为“使自动化”。"
+    },
+    {
+      "id": 62,
+      "question": "Please (  ) the reception desk for a visitor pass.",
+      "options": [
+        "A. approach",
+        "B. approve",
+        "C. appropriate",
+        "D. appreciate"
+      ],
+      "correct": 0,
+      "explanation": "approach 意为“走近/与……商谈”。"
+    },
+    {
+      "id": 63,
+      "question": "The manager (  ) the importance of teamwork during the orientation.",
+      "options": [
+        "A. emphasized",
+        "B. employment",
+        "C. embassy",
+        "D. embrace"
+      ],
+      "correct": 0,
+      "explanation": "emphasize 意为“强调”。"
+    },
+    {
+      "id": 64,
+      "question": "We need to (  ) the current trends in the market.",
+      "options": [
+        "A. scrutinize",
+        "B. scribble",
+        "C. scroll",
+        "D. scrap"
+      ],
+      "correct": 0,
+      "explanation": "scrutinize 意为“仔细审查/详审”。"
+    },
+    {
+      "id": 65,
+      "question": "The (  ) of the merger will be announced next week.",
+      "options": [
+        "A. outcome",
+        "B. outfit",
+        "C. outline",
+        "D. outlook"
+      ],
+      "correct": 0,
+      "explanation": "outcome 意为“结果/成果”。"
+    },
+    {
+      "id": 66,
+      "question": "He was (  ) as the new regional director.",
+      "options": [
+        "A. designated",
+        "B. designed",
+        "C. desired",
+        "D. deserved"
+      ],
+      "correct": 0,
+      "explanation": "designate 意为“任命/指派”。"
+    },
+    {
+      "id": 67,
+      "question": "The team worked (  ) to meet the tight deadline.",
+      "options": [
+        "A. diligently",
+        "B. differently",
+        "C. difficultly",
+        "D. digitally"
+      ],
+      "correct": 0,
+      "explanation": "diligently 意为“勤奋地”。"
+    },
+    {
+      "id": 68,
+      "question": "Please (  ) to the attached file for the detailed itinerary.",
+      "options": [
+        "A. refer",
+        "B. refine",
+        "C. reflect",
+        "D. reform"
+      ],
+      "correct": 0,
+      "explanation": "refer to 意为“参考/查阅”。"
+    },
+    {
+      "id": 69,
+      "question": "The company is seeking to (  ) its brand image.",
+      "options": [
+        "A. revitalize",
+        "B. reveal",
+        "C. reverse",
+        "D. revolve"
+      ],
+      "correct": 0,
+      "explanation": "revitalize 意为“使恢复生机/振兴”。"
+    },
+    {
+      "id": 70,
+      "question": "We have (  ) several new policies to improve workplace safety.",
+      "options": [
+        "A. implemented",
+        "B. implied",
+        "C. impoverished",
+        "D. improvised"
+      ],
+      "correct": 0,
+      "explanation": "implement 意为“实施/执行”。"
     }
   ],
   "finance": [
@@ -1441,6 +1561,126 @@
       ],
       "correct": 0,
       "explanation": "ledger 意为“账簿”。"
+    },
+    {
+      "id": 61,
+      "question": "The company decided to (  ) its assets to reduce risk.",
+      "options": [
+        "A. liquidate",
+        "B. limited",
+        "C. listened",
+        "D. liquid"
+      ],
+      "correct": 0,
+      "explanation": "liquidate 意为“变现/清算”。"
+    },
+    {
+      "id": 62,
+      "question": "The (  ) for the new project is estimated at $2 million.",
+      "options": [
+        "A. expenditure",
+        "B. expense",
+        "C. expand",
+        "D. expedition"
+      ],
+      "correct": 0,
+      "explanation": "expenditure 意为“经费/支出”。"
+    },
+    {
+      "id": 63,
+      "question": "We need to (  ) the current financial situation.",
+      "options": [
+        "A. assess",
+        "B. assert",
+        "C. assign",
+        "D. assist"
+      ],
+      "correct": 0,
+      "explanation": "assess 意为“评估”。"
+    },
+    {
+      "id": 64,
+      "question": "The (  ) from the sale will be used for future investments.",
+      "options": [
+        "A. proceeds",
+        "B. processes",
+        "C. programs",
+        "D. problems"
+      ],
+      "correct": 0,
+      "explanation": "proceeds 意为“收益/实得金额”。"
+    },
+    {
+      "id": 65,
+      "question": "The (  ) rate for the loan is very competitive.",
+      "options": [
+        "A. interest",
+        "B. interesting",
+        "C. intern",
+        "D. internal"
+      ],
+      "correct": 0,
+      "explanation": "interest rate 意为“利率”。"
+    },
+    {
+      "id": 66,
+      "question": "We need to (  ) for any potential market fluctuations.",
+      "options": [
+        "A. account",
+        "B. accent",
+        "C. accept",
+        "D. access"
+      ],
+      "correct": 0,
+      "explanation": "account for 意为“说明/考虑到”。"
+    },
+    {
+      "id": 67,
+      "question": "The (  ) of the committee is to review the budget.",
+      "options": [
+        "A. mandate",
+        "B. manager",
+        "C. manner",
+        "D. mansion"
+      ],
+      "correct": 0,
+      "explanation": "mandate 意为“职权/授权”。"
+    },
+    {
+      "id": 68,
+      "question": "The (  ) for the seminar is attached to this email.",
+      "options": [
+        "A. brochure",
+        "B. branch",
+        "C. breed",
+        "D. brief"
+      ],
+      "correct": 0,
+      "explanation": "brochure 意为“资料手册”。"
+    },
+    {
+      "id": 69,
+      "question": "We need to (  ) the effectiveness of the training program.",
+      "options": [
+        "A. evaluate",
+        "B. evolve",
+        "C. evade",
+        "D. evoke"
+      ],
+      "correct": 0,
+      "explanation": "evaluate 意为“评价/估计”。"
+    },
+    {
+      "id": 70,
+      "question": "The (  ) of the economy is positive.",
+      "options": [
+        "A. outlook",
+        "B. outline",
+        "C. outfit",
+        "D. outcome"
+      ],
+      "correct": 0,
+      "explanation": "outlook 意为“前景/展望”。"
     }
   ],
   "travel": [
@@ -2163,6 +2403,126 @@
       ],
       "correct": 0,
       "explanation": "destination 意为“目的地”。"
+    },
+    {
+      "id": 61,
+      "question": "The hotel (  ) include a fitness center and a sauna.",
+      "options": [
+        "A. facilities",
+        "B. factors",
+        "C. faculties",
+        "D. facets"
+      ],
+      "correct": 0,
+      "explanation": "facilities 意为“设施”。"
+    },
+    {
+      "id": 62,
+      "question": "Please (  ) that your passport is valid for at least six months.",
+      "options": [
+        "A. ensure",
+        "B. endure",
+        "C. enrich",
+        "D. enlarge"
+      ],
+      "correct": 0,
+      "explanation": "ensure 意为“确保”。"
+    },
+    {
+      "id": 63,
+      "question": "The (  ) for the trip was very tight.",
+      "options": [
+        "A. itinerary",
+        "B. item",
+        "C. internal",
+        "D. interest"
+      ],
+      "correct": 0,
+      "explanation": "itinerary 意为“行程表”。"
+    },
+    {
+      "id": 64,
+      "question": "We were (  ) to business class due to overbooking.",
+      "options": [
+        "A. upgraded",
+        "B. updated",
+        "C. uprooted",
+        "D. upstaged"
+      ],
+      "correct": 0,
+      "explanation": "be upgraded to 意为“被升舱”。"
+    },
+    {
+      "id": 65,
+      "question": "The (  ) information is displayed on the overhead monitors.",
+      "options": [
+        "A. flight",
+        "B. fight",
+        "C. flighty",
+        "D. fighter"
+      ],
+      "correct": 0,
+      "explanation": "flight information 意为“航班信息”。"
+    },
+    {
+      "id": 66,
+      "question": "Please (  ) your seat to the upright position.",
+      "options": [
+        "A. adjust",
+        "B. adjunct",
+        "C. adjourn",
+        "D. admit"
+      ],
+      "correct": 0,
+      "explanation": "adjust seat 意为“调整座椅”。"
+    },
+    {
+      "id": 67,
+      "question": "The hotel is (  ) located near the city center.",
+      "options": [
+        "A. conveniently",
+        "B. confidently",
+        "C. constantly",
+        "D. consistently"
+      ],
+      "correct": 0,
+      "explanation": "conveniently located 意为“位置便利”。"
+    },
+    {
+      "id": 68,
+      "question": "The (  ) from the airport takes about 30 minutes.",
+      "options": [
+        "A. shuttle",
+        "B. shuffle",
+        "C. shutter",
+        "D. shallow"
+      ],
+      "correct": 0,
+      "explanation": "shuttle 意为“班车”。"
+    },
+    {
+      "id": 69,
+      "question": "You can find (  ) parking near the entrance.",
+      "options": [
+        "A. designated",
+        "B. designed",
+        "C. delighted",
+        "D. deposited"
+      ],
+      "correct": 0,
+      "explanation": "designated parking 意为“指定的停车位”。"
+    },
+    {
+      "id": 70,
+      "question": "Please (  ) from smoking in the non-smoking area.",
+      "options": [
+        "A. refrain",
+        "B. refresh",
+        "C. reform",
+        "D. refine"
+      ],
+      "correct": 0,
+      "explanation": "refrain from 意为“克制/禁止”。"
     }
   ],
   "tech": [
@@ -3125,6 +3485,126 @@
       ],
       "correct": 0,
       "explanation": "performance 意为“性能”。"
+    },
+    {
+      "id": 81,
+      "question": "We need to (  ) the system to handle more users.",
+      "options": [
+        "A. scale",
+        "B. sale",
+        "C. sail",
+        "D. seal"
+      ],
+      "correct": 0,
+      "explanation": "scale up 意为“扩展（以处理更多负载）”。"
+    },
+    {
+      "id": 82,
+      "question": "The (  ) allows different software systems to talk to each other.",
+      "options": [
+        "A. interface",
+        "B. interference",
+        "C. interferon",
+        "D. interlude"
+      ],
+      "correct": 0,
+      "explanation": "interface 意为“接口/界面”。"
+    },
+    {
+      "id": 83,
+      "question": "We are experiencing a (  ) in the network.",
+      "options": [
+        "A. disruption",
+        "B. description",
+        "C. direction",
+        "D. distribution"
+      ],
+      "correct": 0,
+      "explanation": "disruption 意为“中断/干扰”。"
+    },
+    {
+      "id": 84,
+      "question": "The (  ) of the database is critical for performance.",
+      "options": [
+        "A. architecture",
+        "B. archive",
+        "C. arcane",
+        "D. arsenal"
+      ],
+      "correct": 0,
+      "explanation": "architecture 意为“架构”。"
+    },
+    {
+      "id": 85,
+      "question": "Please (  ) your password before it expires.",
+      "options": [
+        "A. update",
+        "B. upstart",
+        "C. upright",
+        "D. uproot"
+      ],
+      "correct": 0,
+      "explanation": "update password 意为“更新密码”。"
+    },
+    {
+      "id": 86,
+      "question": "We found a (  ) in the security protocols.",
+      "options": [
+        "A. vulnerability",
+        "B. volunteer",
+        "C. vocational",
+        "D. voluntary"
+      ],
+      "correct": 0,
+      "explanation": "vulnerability 意为“漏洞/脆弱性”。"
+    },
+    {
+      "id": 87,
+      "question": "The developers are working on a (  ) to fix the issue.",
+      "options": [
+        "A. patch",
+        "B. path",
+        "C. part",
+        "D. past"
+      ],
+      "correct": 0,
+      "explanation": "patch 意为“补丁”。"
+    },
+    {
+      "id": 88,
+      "question": "We need to (  ) the data to ensure its integrity.",
+      "options": [
+        "A. validate",
+        "B. variable",
+        "C. vanish",
+        "D. vacuum"
+      ],
+      "correct": 0,
+      "explanation": "validate 意为“验证/使有效”。"
+    },
+    {
+      "id": 89,
+      "question": "The (  ) settings can be modified in the control panel.",
+      "options": [
+        "A. configuration",
+        "B. congregation",
+        "C. confirmation",
+        "D. conformation"
+      ],
+      "correct": 0,
+      "explanation": "configuration 意为“配置”。"
+    },
+    {
+      "id": 90,
+      "question": "The (  ) is responsible for deploying the application.",
+      "options": [
+        "A. administrator",
+        "B. administration",
+        "C. admin",
+        "D. admissible"
+      ],
+      "correct": 0,
+      "explanation": "administrator 意为“管理员”。"
     }
   ]
 }
